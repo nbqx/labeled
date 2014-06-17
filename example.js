@@ -1,4 +1,4 @@
-var exec = require('child_process');
+var exec = require('child_process').exec;
 var labeled = require(__dirname);
 var es = require('event-stream');
 var through2 = require('through2');
