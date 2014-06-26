@@ -1,0 +1,5 @@
+usage: labeled COLOR
+
+  Label Colors:
+    red, green, purple, blue, yellow, grey(gray), orange
+
